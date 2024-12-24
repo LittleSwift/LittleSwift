@@ -7,7 +7,7 @@ Backend (especially Ktor)
 Games
 - Minecraft
 - Honkai: Star Rail
-- Arcaea
+- Arcaea  
 Developing
 - Website
 - Minecraft plugin/mod
