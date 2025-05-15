@@ -7,7 +7,8 @@ Backend (especially Ktor)
 Games
 - Minecraft
 - Arknights
-- Arcaea  
+- Arcaea
+
 Developing
 - Website
 - Minecraft plugin/mod
