@@ -1,5 +1,5 @@
 ## Who am I?
-LittleSwift, 16 y.o. student of the Affiliated High School of Peking University, SubIT member & FTC robot club member, fullstack dev.
+LittleSwift, 17 y.o. student of the Affiliated High School of Peking University, SubIT member, fullstack dev.
 ## What can I do?
 Frontend (including Vue, React, Svelte)  
 Backend (especially Ktor)  
